@@ -16,7 +16,7 @@ const Feed: React.FC = () => {
       {data.getPosts.map(({ _id, title, text }) => (
         <div key={_id}>
           <h2>{title}</h2>
-          <h3>{text}</h3>
+          {text && <h3>{text}</h3>}
         </div>
       ))}
     </div>
