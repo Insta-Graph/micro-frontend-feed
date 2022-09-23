@@ -1,3 +1,10 @@
+# 1.0.0 (2022-09-23)
+
+
+### Features
+
+* render posts at feed component ([2793d96](https://github.com/Insta-Graph/micro-frontend-feed/commit/2793d96a83e1a7f01a0128c32538d83b0bb51e33))
+
 # [1.3.0](https://github.com/edwardramirez31/micro-frontend-template/compare/v1.2.0...v1.3.0) (2022-09-07)
 
 
