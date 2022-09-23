@@ -1,13 +1,15 @@
-import { UserLayout, ApolloProvider, apolloClient } from '@snapify/shared-modules';
+import { UserLayout, ApolloProvider, apolloClient, AuthProvider } from '@snapify/shared-modules';
 
 import Feed from './components/Feed';
 
 const Root: React.FC = () => {
   return (
     <ApolloProvider client={apolloClient}>
-      <UserLayout>
-        <Feed />
-      </UserLayout>
+      <AuthProvider>
+        <UserLayout>
+          <Feed />
+        </UserLayout>
+      </AuthProvider>
     </ApolloProvider>
   );
 };
