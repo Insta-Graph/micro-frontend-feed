@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.0...v1.0.1) (2022-09-23)
+
+
+### Bug Fixes
+
+* protect view with AuthProvider ([9ac27b2](https://github.com/Insta-Graph/micro-frontend-feed/commit/9ac27b27fe99eee36ba04d1d5a695c73d923d1bb))
+
 # 1.0.0 (2022-09-23)
 
 
