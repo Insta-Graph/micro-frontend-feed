@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.1...v1.0.2) (2022-09-23)
+
+
+### Bug Fixes
+
+* show post text only if exists ([e75fa63](https://github.com/Insta-Graph/micro-frontend-feed/commit/e75fa63815bddedcce2812ea68c9f383e1fd6754))
+
 ## [1.0.1](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.0...v1.0.1) (2022-09-23)
 
 
