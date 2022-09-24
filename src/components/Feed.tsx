@@ -5,12 +5,14 @@ import { useGetPostsQuery, Loader } from '@snapify/shared-modules';
 const Feed: React.FC = () => {
   const { data, error, loading } = useGetPostsQuery();
 
-  if (!data || loading) {
-    return <Loader />;
-  }
   if (error) {
     return <div>{error.message}</div>;
   }
+
+  if (!data || loading) {
+    return <Loader />;
+  }
+
   return (
     <div>
       {data.getPosts.map(({ _id, title, text }) => (
