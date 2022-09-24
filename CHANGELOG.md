@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.3...v1.0.4) (2022-09-24)
+
+
+### Bug Fixes
+
+* show error before load state ([564357b](https://github.com/Insta-Graph/micro-frontend-feed/commit/564357bf03c17a3195067a0f8a2e042f84006551))
+
 ## [1.0.3](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.2...v1.0.3) (2022-09-24)
 
 
