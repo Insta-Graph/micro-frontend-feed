@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.2...v1.0.3) (2022-09-24)
+
+
+### Bug Fixes
+
+* set apollo client on mount to handle auth headers ([48f3ec7](https://github.com/Insta-Graph/micro-frontend-feed/commit/48f3ec71299d82d9f7a62b7c7dfc7b273ee658d8))
+
 ## [1.0.2](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.1...v1.0.2) (2022-09-23)
 
 
