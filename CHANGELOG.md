@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.6...v1.0.7) (2022-09-26)
+
+
+### Bug Fixes
+
+* handle errors with common error boundary ([53c51ff](https://github.com/Insta-Graph/micro-frontend-feed/commit/53c51ff9b42ca115430cf8a92328f29ca305f0df))
+
 ## [1.0.6](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.5...v1.0.6) (2022-09-26)
 
 
