@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.5...v1.0.6) (2022-09-26)
+
+
+### Bug Fixes
+
+* provide custom theme to micro frontend ([828f394](https://github.com/Insta-Graph/micro-frontend-feed/commit/828f3940a6aafef9a0060865dc60c27806ebd3f4))
+
 ## [1.0.5](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.4...v1.0.5) (2022-09-24)
 
 
