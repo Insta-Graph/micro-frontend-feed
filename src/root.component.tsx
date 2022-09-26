@@ -1,4 +1,4 @@
-import { UserLayout, ApolloProvider, AuthProvider } from '@snapify/shared-modules';
+import { UserLayout, ApolloProvider, AuthProvider, ThemeProvider } from '@snapify/shared-modules';
 
 import Feed from './components/Feed';
 
@@ -6,9 +6,11 @@ const Root: React.FC = () => {
   return (
     <AuthProvider>
       <ApolloProvider>
-        <UserLayout>
-          <Feed />
-        </UserLayout>
+        <ThemeProvider>
+          <UserLayout>
+            <Feed />
+          </UserLayout>
+        </ThemeProvider>
       </ApolloProvider>
     </AuthProvider>
   );
