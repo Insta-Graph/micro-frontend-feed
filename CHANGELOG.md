@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.7...v1.0.8) (2022-10-06)
+
+
+### Bug Fixes
+
+* assume a role to deploy changes ([1c87064](https://github.com/Insta-Graph/micro-frontend-feed/commit/1c8706448426351c50bb8d148c266e62b47b1b5b))
+
 ## [1.0.7](https://github.com/Insta-Graph/micro-frontend-feed/compare/v1.0.6...v1.0.7) (2022-09-26)
 
 
